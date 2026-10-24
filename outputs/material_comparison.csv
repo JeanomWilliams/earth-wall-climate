@@ -1,0 +1,13 @@
+section,case,source,k_W_per_mK,density_kg_m3,cp_J_per_kgK,thickness_mm,R_m2K_per_W,C_kJ_per_m2K,embodied_kg_CO2_per_m2
+thermal,CEB A (k 0.81),Auroville CSEB table,0.81,1800.0,650.0,300,0.37,351.0,
+thermal,CEB A (k 0.81),Auroville CSEB table,0.81,1800.0,850.0,300,0.37,459.0,
+thermal,CEB A (k 0.93),Auroville CSEB table,0.93,1800.0,650.0,300,0.323,351.0,
+thermal,CEB A (k 0.93),Auroville CSEB table,0.93,1800.0,850.0,300,0.323,459.0,
+thermal,CEB B,"Ouedraogo et al. 2024, Table 1",1.02,1840.0,975.0,140,0.137,251.2,
+thermal,Cement block C,"Ouedraogo et al. 2024, Table 1",0.8,1000.0,1000.0,150,0.187,150.0,
+thermal,"Concrete block D, 1614 kg/m3",Nigerian sandcrete measurements,not established,1614.0,1000.0,225,not established,363.1,
+thermal,"Concrete block D, 2002 kg/m3",Nigerian sandcrete measurements,not established,2002.0,1000.0,225,not established,450.4,
+embodied,CEB 300 mm,"total, Auroville 2005 (boundary unknown)",,,,,,,15.4
+embodied,Concrete block 225 mm,"cement only, 25 blocks/bag (2.0 kg/block), lower bound",,,,,,,15.1
+embodied,Concrete block 225 mm,"cement only, 20 blocks/bag (2.5 kg/block), lower bound",,,,,,,18.8
+embodied,Dense concrete block 140 mm (reference),"total A1-A3, IBU EPD",,,,,,,14.8

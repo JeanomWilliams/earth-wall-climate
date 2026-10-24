@@ -1,0 +1,117 @@
+section,label,value,unit
+average_day,00:00,25.17,C
+average_day,01:00,24.65,C
+average_day,02:00,24.2,C
+average_day,03:00,23.76,C
+average_day,04:00,23.37,C
+average_day,05:00,23.18,C
+average_day,06:00,24.89,C
+average_day,07:00,27.52,C
+average_day,08:00,30.53,C
+average_day,09:00,32.78,C
+average_day,10:00,34.47,C
+average_day,11:00,35.7,C
+average_day,12:00,36.45,C
+average_day,13:00,36.68,C
+average_day,14:00,36.41,C
+average_day,15:00,35.6,C
+average_day,16:00,34.07,C
+average_day,17:00,30.98,C
+average_day,18:00,29.57,C
+average_day,19:00,28.74,C
+average_day,20:00,28.04,C
+average_day,21:00,27.33,C
+average_day,22:00,26.55,C
+average_day,23:00,25.8,C
+daily,01 Feb,23.33 to 34.57,C
+daily,02 Feb,24.88 to 37.94,C
+daily,03 Feb,22.09 to 38.20,C
+daily,04 Feb,21.05 to 37.13,C
+daily,05 Feb,22.75 to 40.07,C
+daily,06 Feb,21.97 to 36.31,C
+daily,07 Feb,23.00 to 36.86,C
+daily,08 Feb,23.08 to 38.93,C
+daily,09 Feb,24.35 to 35.86,C
+daily,10 Feb,24.92 to 32.36,C
+daily,11 Feb,22.96 to 38.10,C
+daily,12 Feb,22.98 to 38.21,C
+daily,13 Feb,24.29 to 38.18,C
+daily,14 Feb,23.27 to 37.65,C
+daily,15 Feb,24.06 to 38.10,C
+daily,16 Feb,22.69 to 41.02,C
+daily,17 Feb,20.27 to 36.65,C
+daily,18 Feb,21.74 to 34.23,C
+daily,19 Feb,20.62 to 37.64,C
+daily,20 Feb,21.94 to 38.60,C
+daily,21 Feb,21.45 to 38.57,C
+daily,22 Feb,21.47 to 38.71,C
+daily,23 Feb,21.29 to 37.50,C
+daily,24 Feb,21.00 to 37.49,C
+daily,25 Feb,22.77 to 38.10,C
+daily,26 Feb,22.74 to 39.13,C
+daily,27 Feb,20.28 to 37.70,C
+daily,28 Feb,20.26 to 38.60,C
+daily,01 Mar,18.78 to 38.39,C
+daily,02 Mar,19.72 to 37.51,C
+daily,03 Mar,20.62 to 38.24,C
+daily,04 Mar,20.43 to 37.80,C
+daily,05 Mar,21.18 to 38.23,C
+daily,06 Mar,20.90 to 39.42,C
+daily,07 Mar,21.13 to 40.07,C
+daily,08 Mar,21.09 to 40.98,C
+daily,09 Mar,22.06 to 40.81,C
+daily,10 Mar,24.22 to 39.70,C
+daily,11 Mar,24.17 to 39.06,C
+daily,12 Mar,25.57 to 37.04,C
+daily,13 Mar,26.34 to 36.67,C
+daily,14 Mar,25.00 to 39.97,C
+daily,15 Mar,24.18 to 39.12,C
+daily,16 Mar,24.94 to 39.91,C
+daily,17 Mar,23.06 to 38.79,C
+daily,18 Mar,23.44 to 38.55,C
+daily,19 Mar,21.20 to 40.03,C
+daily,20 Mar,22.38 to 39.73,C
+daily,21 Mar,22.17 to 40.55,C
+daily,22 Mar,22.26 to 39.19,C
+daily,23 Mar,22.72 to 39.47,C
+daily,24 Mar,24.46 to 36.26,C
+daily,25 Mar,23.57 to 39.84,C
+daily,26 Mar,25.49 to 37.96,C
+daily,27 Mar,25.78 to 40.24,C
+daily,28 Mar,26.36 to 36.56,C
+daily,29 Mar,24.49 to 33.54,C
+daily,30 Mar,24.32 to 32.68,C
+daily,31 Mar,24.62 to 29.80,C
+daily,01 Apr,23.50 to 33.79,C
+daily,02 Apr,25.27 to 33.37,C
+daily,03 Apr,24.57 to 34.99,C
+daily,04 Apr,23.84 to 35.56,C
+daily,05 Apr,24.69 to 37.43,C
+daily,06 Apr,25.36 to 38.37,C
+daily,07 Apr,24.92 to 31.87,C
+daily,08 Apr,23.40 to 30.11,C
+daily,09 Apr,22.95 to 33.75,C
+daily,10 Apr,24.15 to 37.02,C
+daily,11 Apr,22.17 to 35.89,C
+daily,12 Apr,21.92 to 37.34,C
+daily,13 Apr,24.10 to 35.39,C
+daily,14 Apr,24.20 to 33.18,C
+daily,15 Apr,24.53 to 32.10,C
+daily,16 Apr,24.08 to 31.24,C
+daily,17 Apr,23.86 to 32.19,C
+daily,18 Apr,23.55 to 32.21,C
+daily,19 Apr,23.66 to 33.59,C
+daily,20 Apr,24.56 to 34.50,C
+daily,21 Apr,22.53 to 36.50,C
+daily,22 Apr,23.31 to 37.10,C
+daily,23 Apr,24.07 to 36.72,C
+daily,24 Apr,24.54 to 33.03,C
+daily,25 Apr,23.68 to 30.24,C
+daily,26 Apr,23.39 to 31.82,C
+daily,27 Apr,23.32 to 36.51,C
+daily,28 Apr,24.27 to 36.95,C
+daily,29 Apr,23.06 to 36.19,C
+daily,30 Apr,24.08 to 32.40,C
+monthly_mean,February,29.51,C
+monthly_mean,March,30.34,C
+monthly_mean,April,28.43,C
